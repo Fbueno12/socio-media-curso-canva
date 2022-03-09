@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/socio-media-curso-canva/static/css/main.2daf2c55.css",
+    "main.js": "/socio-media-curso-canva/static/js/main.acab973a.js",
+    "static/media/animated.gif": "/socio-media-curso-canva/static/media/animated.f56c95fed21b2d25edee.gif",
+    "static/media/youtube.svg": "/socio-media-curso-canva/static/media/youtube.c255b92bc7290fe42609cfeb6dc880c0.svg",
+    "static/media/Line.svg": "/socio-media-curso-canva/static/media/Line.753aad53562343ebfdd470a323df858a.svg",
+    "static/media/instagram.svg": "/socio-media-curso-canva/static/media/instagram.7422a3cfc2cf95174d10d424459cbed7.svg",
+    "index.html": "/socio-media-curso-canva/index.html",
+    "main.2daf2c55.css.map": "/socio-media-curso-canva/static/css/main.2daf2c55.css.map",
+    "main.acab973a.js.map": "/socio-media-curso-canva/static/js/main.acab973a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2daf2c55.css",
+    "static/js/main.acab973a.js"
+  ]
+}
