@@ -1,0 +1,16 @@
+.sm-header {
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+}
+.sm-header h1 {
+    font-size: 56px;
+    font-weight: 400;
+}
+.sm-header p {
+    font-size: 20px;
+    width: 70%;
+}
+.sm-separator {
+    width: 70%;
+}

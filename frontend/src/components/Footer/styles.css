@@ -1,0 +1,24 @@
+.sm-footer{
+    margin-bottom: 20px;
+}
+.sm-navbar nav {
+    display: flex;
+    align-items: center;
+}
+nav p {
+    margin: 0;
+}
+
+.sm-nav-icons {
+    display: flex;
+}
+.sm-nav-icons a {
+    background-color: var(--bg-secondary-color);
+    padding: 5px 10px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.sm-icon {
+    width: 40px;
+    cursor: pointer;
+}
